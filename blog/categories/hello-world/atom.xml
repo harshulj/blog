@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[harshulj's blog]]></title>
-  <link href="http://harshulj.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: hello-world | harshulj's blog]]></title>
+  <link href="http://harshulj.github.com/blog/blog/categories/hello-world/atom.xml" rel="self"/>
   <link href="http://harshulj.github.com/blog/"/>
   <updated>2012-09-18T19:48:09+05:30</updated>
   <id>http://harshulj.github.com/blog/</id>
