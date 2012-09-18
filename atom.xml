@@ -4,7 +4,7 @@
   <title><![CDATA[harshulj's blog]]></title>
   <link href="http://harshulj.github.com/blog/atom.xml" rel="self"/>
   <link href="http://harshulj.github.com/blog/"/>
-  <updated>2012-09-18T19:48:09+05:30</updated>
+  <updated>2012-09-18T21:24:58+05:30</updated>
   <id>http://harshulj.github.com/blog/</id>
   <author>
     <name><![CDATA[Harshul Jain]]></name>
@@ -18,7 +18,59 @@
     <link href="http://harshulj.github.com/blog/blog/2012/09/18/hello-world/"/>
     <updated>2012-09-18T19:43:00+05:30</updated>
     <id>http://harshulj.github.com/blog/blog/2012/09/18/hello-world</id>
-    <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for coders. :)</p>
+    <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for hackers. :)<br/>
+Checking code snipets:</p>
+
+<ul>
+<li>Python:</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>Python Class  Defining a Class </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">class</span> <span class="nc">Python</span><span class="p">():</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+</span><span class='line'>      <span class="k">pass</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">__version__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+</span><span class='line'>      <span class="k">print</span> <span class="s">&#39;3.3&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Ruby:</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>Ruby code  Ruby code on</span><a href='http://ruby-lang.org'>Ruby Language </a></figcaption> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1"># Output &quot;I love Ruby&quot;</span>
+</span><span class='line'><span class="n">say</span> <span class="o">=</span> <span class="s2">&quot;I love Ruby&quot;</span>
+</span><span class='line'><span class="nb">puts</span> <span class="n">say</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1"># Output &quot;I *LOVE* RUBY&quot;</span>
+</span><span class='line'><span class="n">say</span><span class="o">[</span><span class="s1">&#39;love&#39;</span><span class="o">]</span> <span class="o">=</span> <span class="s2">&quot;*love*&quot;</span>
+</span><span class='line'><span class="nb">puts</span> <span class="n">say</span><span class="o">.</span><span class="n">upcase</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1"># Output &quot;I *love* Ruby&quot;</span>
+</span><span class='line'><span class="c1"># five times</span>
+</span><span class='line'><span class="mi">5</span><span class="o">.</span><span class="n">times</span> <span class="p">{</span> <span class="nb">puts</span> <span class="n">say</span> <span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   

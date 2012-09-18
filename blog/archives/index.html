@@ -10,7 +10,7 @@
 
   
   <meta name="description" content="Blog Archive 2012 Hello World
-Sep 18 2012 posted in hello-world Recent Posts Hello World GitHub Repos Status updating... @harshulj on GitHub $. &hellip;">
+Sep 18 2012 posted in hello-world Recent Posts Hello World Latest Tweets Status updating... $.domReady(function(){ &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -111,6 +111,23 @@ Sep 18 2012 posted in hello-world Recent Posts Hello World GitHub Repos Status u
 </section>
 
 <section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("harshulj", 5, false);
+    });
+  </script>
+  <script src="/blog/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/harshulj" class="twitter-follow-button" data-show-count="false">Follow @harshulj</a>
+  
+</section>
+
+
+<section>
   <h1>GitHub Repos</h1>
   <ul id="gh_repos">
     <li class="loading">Status updating...</li>
@@ -137,23 +154,6 @@ Sep 18 2012 posted in hello-world Recent Posts Hello World GitHub Repos Status u
     });
   </script>
   <script src="/blog/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("harshulj", 5, false);
-    });
-  </script>
-  <script src="/blog/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/harshulj" class="twitter-follow-button" data-show-count="false">Follow @harshulj</a>
-  
 </section>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hello-world | harshulj's blog]]></title>
   <link href="http://harshulj.github.com/blog/blog/categories/hello-world/atom.xml" rel="self"/>
   <link href="http://harshulj.github.com/blog/"/>
-  <updated>2012-09-18T19:48:09+05:30</updated>
+  <updated>2012-09-18T21:24:58+05:30</updated>
   <id>http://harshulj.github.com/blog/</id>
   <author>
     <name><![CDATA[Harshul Jain]]></name>
@@ -18,7 +18,77 @@
     <link href="http://harshulj.github.com/blog/blog/2012/09/18/hello-world/"/>
     <updated>2012-09-18T19:43:00+05:30</updated>
     <id>http://harshulj.github.com/blog/blog/2012/09/18/hello-world</id>
-    <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for coders. :)</p>
+    <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for hackers. :)<br/>
+Checking code snipets:</p>
+
+<ul>
+<li><p>Python:<br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Python Class  Defining a Class </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">class</span> <span class="nc">Python</span><span class="p">():</span>
+</span><span class='line'> <span class="k">def</span> <span class="err">&lt;</span><span class="nf">strong</span><span class="o">&gt;</span><span class="n">init</span><span class="o">&lt;/</span><span class="n">strong</span><span class="o">&gt;</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span> <span class="k">pass</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'> <span class="k">def</span> <span class="err">&lt;</span><span class="nf">strong</span><span class="o">&gt;</span><span class="n">version</span><span class="o">&lt;/</span><span class="n">strong</span><span class="o">&gt;</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span> <span class="k">print</span> <span class="s">&#39;3.3&#39;</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></li>
+<li><p>Ruby:<br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Ruby code  Ruby code on</span><a href='http://ruby-lang.org'>Ruby Language </a></figcaption> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="sr">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;h1&gt;Output &quot;I love Ruby&quot;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="n">say</span> <span class="o">=</span> <span class="s2">&quot;I love Ruby&quot;</span>
+</span><span class='line'><span class="nb">puts</span> <span class="n">say</span><span class="o">&lt;</span><span class="sr">/p&gt;&lt;/</span><span class="n">li</span><span class="o">&gt;</span>
+</span><span class='line'><span class="o">&lt;</span><span class="sr">/ul&gt;</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;h1&gt;Output &quot;I &lt;em&gt;LOVE&lt;/em</span><span class="o">&gt;</span> <span class="no">RUBY</span><span class="s2">&quot;&lt;/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="s2">&lt;p&gt;say[&#39;love&#39;] = &quot;</span><span class="o">&lt;</span><span class="n">em</span><span class="o">&gt;</span><span class="n">love</span><span class="o">&lt;</span><span class="sr">/em&gt;&quot;</span>
+</span><span class='line'><span class="sr">puts say.upcase&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;</span><span class="no">Output</span> <span class="s2">&quot;I &lt;em&gt;love&lt;/em&gt; Ruby&quot;</span><span class="o">&lt;</span><span class="sr">/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;h1&gt;five times&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="mi">5</span><span class="o">.</span><span class="n">times</span> <span class="p">{</span> <span class="nb">puts</span> <span class="n">say</span> <span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
