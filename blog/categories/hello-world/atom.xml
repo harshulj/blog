@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hello-world | harshulj's blog]]></title>
   <link href="http://harshulj.github.com/blog/blog/categories/hello-world/atom.xml" rel="self"/>
   <link href="http://harshulj.github.com/blog/"/>
-  <updated>2012-09-19T23:19:33+05:30</updated>
+  <updated>2012-09-24T18:33:05+05:30</updated>
   <id>http://harshulj.github.com/blog/</id>
   <author>
     <name><![CDATA[Harshul Jain]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://harshulj.github.com/blog/blog/2012/09/18/hello-world/"/>
+    <link href="http://harshulj.github.com/blog/2012/09/18/hello-world/"/>
     <updated>2012-09-18T19:43:00+05:30</updated>
-    <id>http://harshulj.github.com/blog/blog/2012/09/18/hello-world</id>
+    <id>http://harshulj.github.com/blog/2012/09/18/hello-world</id>
     <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for hackers. :)<br/>
 Checking code snipets:</p>
 

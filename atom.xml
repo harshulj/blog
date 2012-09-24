@@ -4,7 +4,7 @@
   <title><![CDATA[harshulj's blog]]></title>
   <link href="http://harshulj.github.com/blog/atom.xml" rel="self"/>
   <link href="http://harshulj.github.com/blog/"/>
-  <updated>2012-09-19T23:19:33+05:30</updated>
+  <updated>2012-09-24T18:33:05+05:30</updated>
   <id>http://harshulj.github.com/blog/</id>
   <author>
     <name><![CDATA[Harshul Jain]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[I have a Dream]]></title>
-    <link href="http://harshulj.github.com/blog/blog/2012/09/19/i-have-a-dream/"/>
+    <link href="http://harshulj.github.com/blog/2012/09/19/i-have-a-dream/"/>
     <updated>2012-09-19T15:10:00+05:30</updated>
-    <id>http://harshulj.github.com/blog/blog/2012/09/19/i-have-a-dream</id>
+    <id>http://harshulj.github.com/blog/2012/09/19/i-have-a-dream</id>
     <content type="html"><![CDATA[<p>Martin Luther King, Jr, needs no introduction. I am sure that every one must have heard of him in one context or other.
 But most of the people have forgotten what he said. I happen to listen to his famous speech <a href="http://en.wikipedia.org/wiki/I_Have_a_Dream"><strong>&#8220;I Have a Dream&#8221;</strong></a>.
 He talked about equality, freedom and justice. But what amazed me the most was that this phrase was not even there in his origional speech.
@@ -56,9 +56,9 @@ This immediately reminded me of his famous saying:</p>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://harshulj.github.com/blog/blog/2012/09/18/hello-world/"/>
+    <link href="http://harshulj.github.com/blog/2012/09/18/hello-world/"/>
     <updated>2012-09-18T19:43:00+05:30</updated>
-    <id>http://harshulj.github.com/blog/blog/2012/09/18/hello-world</id>
+    <id>http://harshulj.github.com/blog/2012/09/18/hello-world</id>
     <content type="html"><![CDATA[<p>Here goes my First post using <a href="http://octopress.com">Octopress</a>. Its a blogging software for hackers. :)<br/>
 Checking code snipets:</p>
 
