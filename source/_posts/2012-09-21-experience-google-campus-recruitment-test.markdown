@@ -4,7 +4,6 @@ title: "Experience : Google Campus Recruitment Test"
 date: 2012-09-21 19:46
 comments: true
 categories: 
-published: false
 ---
 
 If you ask any Comuter Science student where they want to work, then the most common answer would be Google. Google is the preferd choice among freshers. If you are selected to work for google, then it is nothing but a dream come true. But most of the freshers do not know how to get there. I recently got a chance to sit for Google's Campus recruitment test. I thought that I must share my experience with all of you. This might help other people taking the exam in future.
